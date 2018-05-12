@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34985
     wikipedia: http://nl.wikipedia.org/wiki/Julien_Wolbers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31060#De-slavernij-in-Suriname---13-of-dezelfde-gruwelen-der-slavernij-die-in-de-Negerhut-geschetst_
 gutenberg_issued: '2010-01-24'
 gutenberg_type: Text
 identifiers:
