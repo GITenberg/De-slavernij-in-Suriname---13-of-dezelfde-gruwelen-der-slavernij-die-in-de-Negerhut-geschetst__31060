@@ -1,0 +1,29 @@
+_repo: De-slavernij-in-Suriname---13-of-dezelfde-gruwelen-der-slavernij-die-in-de-Negerhut-geschetst__31060
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wolbers, J.
+    alias: Wolbers, Julien
+    birthdate: 1819
+    deathdate: 1889
+    gutenberg_agent_id: '34985'
+    url: http://www.gutenberg.org/2009/agents/34985
+    wikipedia: http://nl.wikipedia.org/wiki/Julien_Wolbers
+description: ''
+gutenberg_issued: '2010-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31060'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HT'
+- !lcsh 'Slavery -- Suriname'
+title: "De slavernij in Suriname,\r\nof dezelfde gruwelen der slavernij, die in de\
+  \ 'Negerhut' geschetst zijn, bestaan ook in onze West-Indische Koloniën"
+url: http://www.gutenberg.org/ebooks/31060
